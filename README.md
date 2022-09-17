@@ -1,2 +1,2 @@
 # Initial-htmlcv
-#link: https://gowthamkishorem.github.io/initial-htmlcv/
+#link: https://bhanusandeepkandula.github.io/initial-htmlcv/
